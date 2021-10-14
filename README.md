@@ -7,6 +7,6 @@ The data was collected from five smartwatch built-in sensors, including 13 dimen
 
 For details:
 
-- The "WLA4ND" dataset is for the  dataset.
+- The "WLA4ND" dataset is for the  dataset.  https://github.com/huizheng-frances/WLA4ND/tree/main/WLA4ND_dataset
 
-- The "modles code" is for the classification code.
+- The "modles code" is for the classification code. https://github.com/huizheng-frances/WLA4ND/tree/main/models_code
