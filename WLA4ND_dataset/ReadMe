@@ -17,9 +17,13 @@ The sensor raw signals (accelerometer, linear acceleration sensor, gyroscope, an
 
 For the pre-processed data, in terms of labels, the pre-processed data includes a total of data points: 3,688 for Read; 2,410 for Write; 1,585 for Write Q&A; 3,533 for Type; 2,385 for Rest; and 610 for Off-task. The total number of data points is 14,211. This results in 9 data points per second. 
 
-See 'features_info.txt' for more details. 
-
-
+There six labels for dataset:
+- 'read'  : reading
+- 'writeQ&A'  : writing follow-up Question and Answers
+- 'write' : writing
+- 'type'  : typing
+- 'rest'  : taking a rest
+- 'off'   : being off-task
 
 
 
