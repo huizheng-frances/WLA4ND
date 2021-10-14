@@ -5,6 +5,8 @@ The WLA4ND dataset consists of data collected with a set of wearable sensors, re
 
 The data was collected from five smartwatch built-in sensors, including 13 dimensions of features, being 12 dimensions of features from four motion sensors and one feature from the heart rate sensor. For those four motion sensors that measure vectors in three axes (x, y, z) relative to the smartwatch, we included data from the gyroscope (raw rotations), accelerometer (raw accelerations), linear acceleration (accelerations excluding gravity), and gravity sensors to measure the corresponding acceleration vectors. Heart rate sensors were used to measure the number of beats per minute (bpm) in one vector. For the raw data, around 500 raw time points in total were collected from five sensor sources per second. 
 
-The "WLA4ND" dataset is for the  dataset.
+For details:
 
-The "modles code" is for the classification code.
+- The "WLA4ND" dataset is for the  dataset.
+
+- The "modles code" is for the classification code.
