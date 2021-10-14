@@ -15,9 +15,9 @@ There six labels for dataset:
 
 For details:
 
-- The "WLA4ND" dataset is for the  dataset.  
+- The "WLA4ND" dataset folder is for the  dataset.  
   - https://github.com/huizheng-frances/WLA4ND/tree/main/WLA4ND_dataset
   - https://github.com/huizheng-frances/WLA4ND/blob/main/WLA4ND_dataset/ReadMe
 
-- The "modles code" is for the classification code. 
+- The "modles code" folder is for the classification code. 
   -   https://github.com/huizheng-frances/WLA4ND/tree/main/models_code
