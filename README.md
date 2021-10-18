@@ -32,4 +32,5 @@ For details:
 To use this dataset or related code, please cite our paper:
 
 Hui Zheng, Pattiya Mahapasuthanon, Yujing Chen, Huzefa Rangwala, Anya S Evmenova, and Vivian Genaro Motti. 2021. WLA4ND: a Wearable Dataset of Learning Activities for Young Adults with Neurodiversity to Provide Support in Education. In The 23rd International ACM SIGACCESS Conference on Computers and Accessibility (ASSETS '21). Association for Computing Machinery, New York, NY, USA, Article 29, 1–15. DOI:https://doi.org/10.1145/3441852.3471220
+  - BibTex： https://github.com/huizheng-frances/WLA4ND/blob/main/acm_3441852.3471220.bib
 
