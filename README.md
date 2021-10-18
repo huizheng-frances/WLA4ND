@@ -1,7 +1,7 @@
 # -WLA4ND
 
-WLA4ND is the work of the papper -- "WLA4ND: a Wearable Dataset of Learning Activities for Young Adults with Neurodiversity to Provide Support in Education" is for more in-depth details.
-  - https://dl.acm.org/doi/10.1145/3441852.3471220
+WLA4ND Dataset is the work of the papper -- "WLA4ND: a Wearable Dataset of Learning Activities for Young Adults with Neurodiversity to Provide Support in Education" is for more in-depth details.
+  https://dl.acm.org/doi/10.1145/3441852.3471220
 
 
 The WLA4ND dataset consists of data collected with a set of wearable sensors, representing learning activities from eight participants with neurodiversity. Among the eight participants, there are three females and five males (according to self-reports), all were alumni from an inclusive postsecondary education program for students with intellectual and developmental disabilities. The participants self-reported their disability types. Regarding their demographic profile, seven participants were White-Caucasian, and one was African-American. All eight participants used their right hand as dominant hand. The average age of the participants was 28.5 years old, ranging from 23 to 31 years old. 
@@ -29,7 +29,7 @@ For details:
   -   https://github.com/huizheng-frances/WLA4ND/tree/main/models_code
 
 
-To use this dataset or related code, please cite our work:
+To use this dataset or related code, please cite our paper:
 
 Hui Zheng, Pattiya Mahapasuthanon, Yujing Chen, Huzefa Rangwala, Anya S Evmenova, and Vivian Genaro Motti. 2021. WLA4ND: a Wearable Dataset of Learning Activities for Young Adults with Neurodiversity to Provide Support in Education. In The 23rd International ACM SIGACCESS Conference on Computers and Accessibility (ASSETS '21). Association for Computing Machinery, New York, NY, USA, Article 29, 1–15. DOI:https://doi.org/10.1145/3441852.3471220
 
