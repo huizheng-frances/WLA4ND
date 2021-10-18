@@ -15,6 +15,8 @@ There six labels for dataset:
 
 
 For details:
+- The paper "WLA4ND: a Wearable Dataset of Learning Activities for Young Adults with Neurodiversity to Provide Support in Education" is for more in-depth details.
+  - https://dl.acm.org/doi/proceedings/10.1145/3441852?ai=&ui=&af=
 
 - The "WLA4ND" dataset folder is for the  dataset.  
   - https://github.com/huizheng-frances/WLA4ND/tree/main/WLA4ND_dataset
