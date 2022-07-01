@@ -36,4 +36,4 @@ Hui Zheng, Pattiya Mahapasuthanon, Yujing Chen, Huzefa Rangwala, Anya S Evmenova
 
 If you have any questions, please contact hzheng5@gmu.edu
 
-The contents of this dataset were developed under a grant from the National Institute on Disability, Independent Living, and Rehabilitation Research (NIDILRR grant number 90DPGE0009).  NIDILRR is a Center within the Administration for Community Living (ACL), Department of Health and Human Services (HHS).  The contents of this (insert type of publication; e.g., book, report, film) do not necessarily represent the policy of NIDILRR, ACL, or HHS, and you should not assume endorsement by the Federal Government.
+The contents of this dataset were developed under a grant from the National Institute on Disability, Independent Living, and Rehabilitation Research (NIDILRR grant number 90DPGE0009).  NIDILRR is a Center within the Administration for Community Living (ACL), Department of Health and Human Services (HHS).  The contents of this dataset do not necessarily represent the policy of NIDILRR, ACL, or HHS, and you should not assume endorsement by the Federal Government.
